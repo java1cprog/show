@@ -28,3 +28,12 @@ metas:
   - "'Moron' by David Fesliyan from http://fesliyanstudios.com/."
   - "Baddum Tish - Comedy Rimshots.wav by rodincoil: https://freesound.org/people/rodincoil/sounds/271208/."
 markers:
+  - "Straight to the code: 2:31"
+  - "Procedural macros and nightly compilers: 5:49"
+  - "Rust code for the Python module: 8:39"
+  - "Does it run?: 12:18"
+  - "Deep dive: 15:08"
+  - "A little trick to improve debugging of proc macros: 19:42"
+  - "'If lets' are beautiful: 22:00"
+  - "Introducing hyperjson: 25:10"
+
